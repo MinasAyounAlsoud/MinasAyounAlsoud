@@ -8,7 +8,7 @@ Ich bin Webentwicklerin und absolviere derzeit eine Weiterbildung bei DCI (Digit
 - **Ständig am Vertiefen:** API-Entwicklung, Datenbanken, Cloud-Technologien
 - **Mein Ziel:** Erfolgreich als Full-Stack-Webentwicklerin zu arbeiten und innovative, nutzerfreundliche Anwendungen zu entwickeln
 - **Weiterbildung:** Webentwicklung bei DCI (Digital Career Institute)
-- **Offen für neue berufliche Chancen ab:** 01. August 2025
+- **Offen für neue berufliche Chancen ab:** 01. Mai 2025
 
 ## Fähigkeiten & Werkzeuge:
 
