@@ -9,7 +9,7 @@
 
 **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React, GSAP, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, JWT, Multer  
-**Tools & Deployment:** VSCode, GitHub, Figma, Render, Vercel, REST APIs  
+**Tools & Deployment:** VSCode, GitHub, Figma, Render, Vercel, REST APIs 
 **Soft Skills:** Agile Teamarbeit, Projektpräsentation, Clean Code, Problem Solving  
 
 ---
