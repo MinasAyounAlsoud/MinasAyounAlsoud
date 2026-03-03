@@ -51,9 +51,11 @@
 
 ## 📊 GitHub Stats
 
-![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&count_private=true&theme=dark)
+![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud
+&show_icons=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud
+&layout=compact&theme=dark)
 ---
 
 ## 📫 Kontakt
