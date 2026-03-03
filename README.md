@@ -65,7 +65,6 @@
 ![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&theme=dark&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud&layout=compact&theme=dark)
 
-
 ## 📫 Kontakt
 - 📧 E-Mail: mina.ayoun@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/minas-alsoud](https://www.linkedin.com/in/minas-alsoud)
