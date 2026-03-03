@@ -1,7 +1,7 @@
 # Hallo, ich bin Minas 👩‍💻
 **Full-Stack Webentwicklerin | MERN Stack | React & Node.js | JWT**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=00BFFF&background=0F0F0F00&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Expert;Deployment+%26)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=00BFFF&background=0F0F0F00&width=600&lines=JavaScript+Liebehaberin;Frontend+%2B+Backend+mit+Leidenschaft;Code+der+funktioniert+und+inspiriert)
 
 ---
 
@@ -61,8 +61,10 @@
 
 ## 📊 GitHub Stats
 
-![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&count_private=true&theme=dark)  
+
+![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&theme=dark&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud&layout=compact&theme=dark)
+
 
 ## 📫 Kontakt
 - 📧 E-Mail: mina.ayoun@gmail.com  
