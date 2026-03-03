@@ -18,7 +18,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
 **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React, GSAP, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, JWT, Multer  
 **Tools & Deployment:** VSCode, GitHub, Figma, Render, Vercel, REST APIs 
@@ -62,10 +61,6 @@
 
 ## 📊 GitHub Stats
 
-![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud&layout=compact&theme=dark)
----
 ![Minas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinasAyounAlsoud&show_icons=true&count_private=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinasAyounAlsoud&layout=compact&theme=dark)
 
